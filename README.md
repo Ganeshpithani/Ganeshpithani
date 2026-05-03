@@ -1,7 +1,35 @@
 # 💫 About Me:
-👋 Hi there!<br>💼 I'm currently working on<br>* Deep Learning projects (LSTM, NLP)<br>🤝 I'm looking to collaborate on<br>* AI/ML projects and open-source contributions<br>🆘 I'm looking for help with<br>* Model optimization and deployment<br>📚 I'm currently learning<br>* Transformers and Attention mechanisms<br>💬 Ask me about<br>* Python, Machine Learning basics, Neural Networks<br>⚡ Fun fact<br>* I enjoy solving real-world problems using AI
+# 👋 Hi, I'm Ganesh
 
+## 🚀 About Me
 
+* 💼 I'm currently working on: Deep Learning & NLP projects
+* 🤝 I'm looking to collaborate on: AI/ML and open-source projects
+* 🆘 I'm looking for help with: Model optimization and deployment
+* 📚 I'm currently learning: Transformers & Attention mechanisms
+* 💬 Ask me about: Python, Machine Learning, Neural Networks
+* ⚡ Fun fact: I enjoy solving real-world problems using AI
+
+---
+
+## 🛠️ Skills
+
+* Python
+* NumPy, Pandas
+* TensorFlow / PyTorch
+* Machine Learning
+* Deep Learning
+* NLP
+
+---
+
+## 📈 Goals
+
+* Build real-world AI projects
+* Contribute to open source
+* Crack technical interviews
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_.unique_20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-pithani-a91343250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganeshpithani001@gmail.com) 
 
