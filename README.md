@@ -1,7 +1,6 @@
-# 💫 About Me:
 # 👋 Hi, I'm Ganesh
 
-## 🚀 About Me
+##  About Me
 
 * 💼 I'm currently working on: Deep Learning & NLP projects
 * 🤝 I'm looking to collaborate on: AI/ML and open-source projects
@@ -12,7 +11,7 @@
 
 ---
 
-## 📈 Goals
+##  Goals
 
 * Build real-world AI projects
 * Contribute to open source
